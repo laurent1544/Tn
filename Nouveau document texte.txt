@@ -1,0 +1,28 @@
+SVN: Bazaar
+
+Faire des tuto SVN
+
+
+Skype Thomas: djthomas974
+
+
+
+ajaxify -> v1.6 - NOK -
+
+custom_index - NOK -
+
+
+OK - This plugin enables an administrator to define a default set of widgets for new users
+
+
+OK - invitefriends - Friend invite page
+
+
+OK - members - A simple plugin to let users browser other members.
+
+
+NOK - powered - Ce plugin ajoute un pied de page avec differents technologies et protocole.
+
+
+
+test de modification 0
